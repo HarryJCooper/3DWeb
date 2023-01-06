@@ -1,5 +1,5 @@
 # 3DWeb
-An attempt at making a VR web browser that feels native with Unity and OpenXR
+An attempt at making a native feeling VR web browser that feels native with Unity and OpenXR
 ## How it works
 * Hit a URL
 * Parse the HTML (using AngleSharp)
